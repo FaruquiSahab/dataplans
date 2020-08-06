@@ -4,9 +4,9 @@
     {"id":"2", "name":"Basic"}
 	],
 	"datapackage":[
-		{"id":"1", "dataPlanId":"1", "name":"$40", "rate":"hours"},
-		{"id":"2", "dataPlanId":"1", "name":"$60", "rate":"hours"},
-		{"id":"3", "dataPlanId":"2", "name":"$400", "rate":"hours"},
-		{"id":"4", "dataPlanId":"2", "name":"$600", "rate":"hours"}
+		{"id":"1", "dataPlanId":"1", "name":"$40", "rate":"hour"},
+		{"id":"2", "dataPlanId":"1", "name":"$60", "rate":"hour"},
+		{"id":"3", "dataPlanId":"2", "name":"$400", "rate":"hour"},
+		{"id":"4", "dataPlanId":"2", "name":"$600", "rate":"hour"}
 	]
 }
